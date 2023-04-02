@@ -14,8 +14,8 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="images/favicon-32x32.png" />
       </Head>
-      <main className="font-Poppins h-full bg-[#FAFAFA] text-[#4C4E61] px-[20px] xl:px-[165px] flex items-center justify-center">
-        <div className="xl:h-full xl:flex xl:flex-col xl:items-center xl:justify-center">
+      <main className="font-Poppins xl:h-full bg-[#FAFAFA] text-[#4C4E61] px-[20px] xl:px-[165px] flex items-center justify-center">
+        <div className="flex flex-col py-[80px] items-center justify-center ">
           <div className="flex flex-col xl:items-center xl:w-[510px]">
             <h1 className=" text-[26px] flex justify-between tracking-[0.035rem] font-extralight">
               Reliable, efficient delivery
